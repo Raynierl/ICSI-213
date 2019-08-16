@@ -1,0 +1,6 @@
+2 Mar 2018 2:33:22 GMT: Log 'EclipseCompiler.txt' opened: 2 Mar 2018 2:33:22 GMT with name D:\Eclipse\ICSI-213\src\EclipseCompiler.txt
+2 Mar 2018 2:39:36 GMT: diagnostics = javax.tools.DiagnosticCollector@769aeee6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2c7c7e7a
+fileObjects = [D:\Eclipse\ICSI-213\src\Module_1.java]
+2 Mar 2018 2:39:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@78577080' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Eclipse\ICSI-213\src;D:\drjava-beta-20160913-225446.exe]
+2 Mar 2018 2:39:36 GMT: Compiler call returned
